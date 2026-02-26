@@ -20,7 +20,13 @@ Dataset Source:
 - KPI performance indicators
 
 ## Dashboard Preview
-![Dashboard](screenshots/your-screenshot-name.png)
+![Dashboard](screenshots/Screenshot 2026-02-27 003830.png)
+![Dashboard](screenshots/Screenshot 2026-02-27 004039.png)
+![Dashboard](screenshots/Screenshot 2026-02-27 004109.png)
+![Dashboard](screenshots/Screenshot 2026-02-27 004123.png)
+![Dashboard](screenshots/Screenshot 2026-02-27 004142.png)
+![Dashboard](screenshots/Screenshot 2026-02-27 004157.png)
+
 
 ## Insights
 - Regional variation in agricultural productivity
